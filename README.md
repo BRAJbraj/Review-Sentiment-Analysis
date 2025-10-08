@@ -27,7 +27,7 @@ Click the "Submit" button to analyze the sentiment
 3. View Results
 The app will display whether the review is Positive or Negative
 
-Results appear with a confidence indicator
+
 
 4. Analyze Multiple Reviews
 After seeing results, click "Want to try next" to analyze another review
@@ -144,3 +144,4 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 📄 License
 
 This project is open source and available under the MIT License.
+
