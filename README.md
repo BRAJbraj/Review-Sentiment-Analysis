@@ -39,7 +39,7 @@ The form will reappear for continuous usage
 Model Architecture
 
 Sequential([
-    Embedding(10000, 4, input_length=300),
+    Embedding(25000, 4, input_length=300),
     LSTM(32, return_sequences=True),
     LSTM(32),
     Dense(1, activation='sigmoid')
@@ -144,5 +144,6 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 📄 License
 
 This project is open source and available under the MIT License.
+
 
 
