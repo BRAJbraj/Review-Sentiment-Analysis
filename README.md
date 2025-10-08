@@ -3,9 +3,9 @@ A web application that analyzes movie reviews and classifies them as positive or
 
 
 📊 Model Performance
-Test Accuracy: 86.4%
+Test Accuracy: about 86%
 
-Test Loss: 0.534
+Test Loss: 0.36(imdb_model11_2_final.keras) and 0.5(imdb_model(5).keras)
 
 Model Type: LSTM Neural Network
 
@@ -144,4 +144,5 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 📄 License
 
 This project is open source and available under the MIT License.
+
 
