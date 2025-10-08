@@ -132,7 +132,7 @@ Training Samples: 25,000
 
 Validation Samples: 25,000
 
-Vocabulary Size: 10,000 words
+Vocabulary Size: 25,000 words
 
 Epochs: 10
 
@@ -144,6 +144,7 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 📄 License
 
 This project is open source and available under the MIT License.
+
 
 
 
