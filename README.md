@@ -87,7 +87,7 @@ The app will automatically open at http://localhost:8501
 
 💡 Example Usage
 Positive Review Example:
-"This film is absolutely fantastic! The acting was superb and the storyline kept me engaged from beginning to end."
+"a movie about time, patience and loyalty."
 
 Output: The review is positive
 
@@ -142,4 +142,5 @@ Batch Size: 32
 Contributions are welcome! Please feel free to submit pull requests or open issues for suggestions and improvements.
 
 📄 License
+
 This project is open source and available under the MIT License.
